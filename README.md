@@ -13,7 +13,7 @@ There's a shift happening in how developers work with AI.
 
 - *"You shouldn't be prompting coding agents anymore. You should be designing loops that prompt your agents."* — [@steipete](https://x.com/steipete)
 - *"I don't prompt Claude anymore. I write loops, the loops do the work."* — [@0xwhrrari](https://x.com/0xwhrrari)
-- *"Remove yourself as the bottleneck. Arrange it once and hit go."* — Andrej Karpathy
+- *"Remove yourself as the bottleneck. Arrange it once and hit go."* — [@karpathy](https://x.com/karpathy)
 
 **Loopentx is the Python framework that makes this concrete.**
 
@@ -506,6 +506,3 @@ Loop + agent + execution. The framework for loops that run without you.
 
 MIT — see [LICENSE](./LICENSE)
 
----
-
-*Built with [Claude](https://claude.ai/code)*
